@@ -1,0 +1,11 @@
+
+.DS_Store
+# Virtualenv
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+*.env
+db.sqlite3
+*.sqlite3
